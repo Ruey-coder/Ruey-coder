@@ -33,7 +33,7 @@
 ### 🌐 Connect With Me
 
 * 📧 **[rumbidzai.mazvidza@gmail.com](mailto:rumbidzai.mazvidza@gmail.com)**
-* 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/rumbidzai-mazvidza-4a44a0203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+* 💼 [https://www.linkedin.com/in/rumbidzai-mazvidza-4a44a0203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
 * 🌍 [Portfolio](https://your-portfolio-link)
 
 ✨ *“Code is like art — the simpler it looks, the harder it was to build.”*
