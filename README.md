@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 * 📧 **[rumbidzai.mazvidza@example.com](mailto:rumbidzai.mazvidza@gmail.com)**
