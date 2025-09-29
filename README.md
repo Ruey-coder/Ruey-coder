@@ -30,10 +30,25 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+</p>  
+
+---
+
 ### 🌐 Connect With Me
 
 * 📧 **[rumbidzai.mazvidza@gmail.com](mailto:rumbidzai.mazvidza@gmail.com)**
-* 💼 [https://www.linkedin.com/in/rumbidzai-mazvidza-4a44a0203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
+* 💼 [LinkedIn](https://www.linkedin.com/in/rumbidzai-mazvidza-4a44a0203)
 * 🌍 [Portfolio](https://your-portfolio-link)
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" alt="profile views counter"/>
+</p>
 
 ✨ *“Code is like art — the simpler it looks, the harder it was to build.”*
