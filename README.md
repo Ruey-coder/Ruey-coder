@@ -32,7 +32,7 @@
 
 ### 🌐 Connect With Me
 
-* 📧 **[rumbidzai.mazvidza@example.com](mailto:rumbidzai.mazvidza@gmail.com)**
+* 📧 **[rumbidzai.mazvidza@gmail.com](mailto:rumbidzai.mazvidza@gmail.com)**
 * 💼 [LinkedIn](https://linkedin.com/in/your-link)
 * 🌍 [Portfolio](https://your-portfolio-link)
 
