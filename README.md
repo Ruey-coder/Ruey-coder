@@ -47,8 +47,4 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat" alt="profile views counter"/>
-</p>
-
 ✨ *“Code is like art — the simpler it looks, the harder it was to build.”*
