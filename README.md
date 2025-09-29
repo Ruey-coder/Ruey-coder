@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rumbi Mazvidza</h1>
+<h1 align="center">Hi 👋, I'm Rumbi</h1>
 <h3 align="center">Frontend Developer | Aspiring Full-Stack Engineer | Exploring AI Integration</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-Hi! I’m **Rumbi Mazvidza**, a Frontend Developer passionate about creating **intuitive, user-friendly web applications**. I enjoy turning complex workflows into **clean, organized dashboards** that make managing data and processes effortless.  
+Hi! I’m **Rumbidzai Mazvidza**, a Frontend Developer passionate about creating **intuitive, user-friendly web applications**. I enjoy turning complex workflows into **clean, organized dashboards** that make managing data and processes effortless.  
 
 Currently, I’m working on a **Practice & Client Management System**, building tools that help businesses streamline operations and improve user experience. Alongside this, I’m expanding my skills in **full-stack development** with React, Java, and PostgreSQL, while exploring **AI integration** to make applications smarter and more interactive.  
 
