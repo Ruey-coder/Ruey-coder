@@ -1,15 +1,31 @@
-<h1 align="center">Hi 👋, I'm Rumbi</h1>
-<h3 align="center">Frontend Developer | Aspiring Full-Stack Engineer | Exploring AI Integration</h3>
+<h1 align="center">👋Hi there! I`m Rumbidzai Mazvidza</h1>
+<h3 align="center">Frontend Developer | Aspiring Full-Stack Engineer | Exploring AI & Dashboard Integrations</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-Hi! I’m **Rumbidzai Mazvidza**, a Frontend Developer passionate about creating **intuitive, user-friendly web applications**. I enjoy turning complex workflows into **clean, organized dashboards** that make managing data and processes effortless.  
+I’m a **Frontend Developer** passionate about creating **intuitive, user-friendly web applications**. I thrive on turning complex workflows into **clean, interactive dashboards** that make managing data effortless.  
 
-Currently, I’m working on a **Practice & Client Management System**, building tools that help businesses streamline operations and improve user experience. Alongside this, I’m expanding my skills in **full-stack development** with React, Java, and PostgreSQL, while exploring **AI integration** to make applications smarter and more interactive.  
+🚀 **Current Focus:**  
+- Building a **Practice & Client Management System** to streamline business operations.  
+- Expanding into **full-stack development** with React, Java, and PostgreSQL.  
+- Exploring **AI integration** to make applications smarter and more interactive.  
 
-My goal is to create **scalable, efficient, and visually engaging platforms** that not only solve real-world problems but also make users’ lives easier.
+🎯 **Goal:**  
+Create **scalable, efficient, and visually engaging platforms** that solve real-world problems while providing seamless user experiences.  
+
+💡 **Fun Fact:**  
+I enjoy **simplifying complexity**, turning messy workflows into dashboards that feel elegant and intuitive.
+
+---
+
+### 🏆 Key Achievements & Highlights
+
+- 💼 Built a **Practice & Client Management System** from scratch  
+- 🌍 Developed **UniCrib**, a platform connecting students to safe housing  
+- 📊 Created **interactive dashboards** for easier data visualization  
+- 🤖 Experimenting with **AI integration** in management systems  
 
 ---
 
@@ -34,10 +50,10 @@ My goal is to create **scalable, efficient, and visually engaging platforms** th
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|-----------|------|
-| **Practice & Client Management System** | A full-stack system for managing clients, projects, and staff. Includes dashboards and risk tracking. | React, Java, PostgreSQL, Material UI | [Repo/Live Link](https://github.com/yourusername/project-link) |
-| **UniCrib** | A web platform to help students find safe, affordable university housing. | React, Node.js, PostgreSQL | [Repo/Live Link](https://github.com/yourusername/project-link) |
+| **Practice & Client Management System** | Full-stack system for managing clients, projects, and staff. Includes dashboards, reporting, and risk tracking. | React, Java, PostgreSQL, Material UI | [Repo/Live Link](https://github.com/yourusername/project-link) |
+| **UniCrib** | Web platform helping students find safe, affordable university housing. | React, Node.js, PostgreSQL | [Repo/Live Link](https://github.com/yourusername/project-link) |
 
-> Add more projects here as you build them. Include live links or GitHub repos if available.  
+> Add more projects with links as you build them to showcase your portfolio.
 
 ---
 
